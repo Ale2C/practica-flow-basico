@@ -31,5 +31,4 @@ Datos masivos --- Git-flow-basico --- 1/March-21
 11) Use git push to apply the changes
 
 12) Use git pull to "receive" or update the files that were changed 
-
---Its was messy in the branches--
+  
